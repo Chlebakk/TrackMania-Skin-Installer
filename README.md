@@ -6,7 +6,7 @@ Please read README.txt before using this program!
 
 For now, TMSI supports only Stadium enviroment. More enviroments will be added in future.
 
-###### Future Plans:
+##### Future Plans:
 - Installing skin by entering skin URL
 - Support for TM2/2020
 - GUI
