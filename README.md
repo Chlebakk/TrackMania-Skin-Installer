@@ -2,7 +2,7 @@
 Program made in Python, that allows to install TMNF/TMUF skins easily.
 Please read README.txt before using this program!
 
-![Screenshot_96](https://user-images.githubusercontent.com/90275299/132482162-2bae879d-d88f-48da-a939-11c8bf9ef4ef.png)
+![v02](https://user-images.githubusercontent.com/90275299/132736682-cac91394-e919-4f32-b63c-60a478ae8e59.png)
 
 For now, TMSI supports only Stadium enviroment. More enviroments will be added in future.
 
