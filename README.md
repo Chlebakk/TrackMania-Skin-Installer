@@ -1,7 +1,8 @@
-<h2><big>TrackMania-Skin-Installer</big></h2>
+<h1><big>TrackMania-Skin-Installer</big></h1>
+
+<h2>WARNING: ManiaPark site is down, meaning you cannot download skins for now. You still can install skins that are already on your disk.</h2>
 <hr>
-<h2><span style="color:red">WARNING: ManiaPark site is down, meaning you cannot download skins for now. You still can install skins that are already on your disk.</span></h2>
-<hr>
+
 
 TrackMania Skin Installer is a program made in Python, that allows to install TMNF/TMUF skins easily.<br>
 Please read README.txt before using this program!</h3>
